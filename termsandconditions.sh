@@ -2,8 +2,8 @@
  
  ANSWER_A="A"
  ANSWER_D="D"
- 
- ____ _____  ___                                       __________
+ ```
+   ___ _____  ___                                       __________
  |___|_____||___|                                     _|__|_  |__|
  |__ _|__|___|__|                                    |_ _|__|_|__|
  |__|__|_|______|      ___      ___   _____   _____    |___|___     ___    ___     ___
@@ -14,13 +14,15 @@
       |__|_|  \____/     \__/\__/    |_|___|  |_| \_|  ||_/      |__/ \__| |_____| |_____|  
       |    |                             ______        | /             
       |____|                            |  ____|       |/             
-      |_ _/                             | |__     _     _     ______   _______
-      |_|/      -Written By Exier-      |  __|   |  \  | |   / ___  | |__   __|
-      |_/         Ancient Exile         | |____  | |\ \| |  | |___| |  __| |__
-      |/        Turncloak Solider       |______| |_| \___|   \____  | |_______|   
-                                                             _    | |
-                                                            | |___| |
-echo "King: Terms and Conditions + Disclaimers:              \_____/
+      |_ _/                             | |__     _     _    ______   _______   __    _   ______
+      |_|/      -Written By Exier-      |  __|   |  \  | |  / ___  | |__   __| |  \  | | | |____|
+      |_/         Ancient Exile         | |____  | |\ \| | | |___| |  __| |__  | |\ \| | | |____|
+      |/        Turncloak Solider       |______| |_| \___|  \____  | |_______| |_| \___| |_|____|
+                                                             _   | |
+                                                           | |___| |
+                                                            \_____/
+ ```
+echo "King: Terms and Conditions + Disclaimers:
 
 1)Towerfall-engine will not produce its own results when using the search engine. 
 2)Towerfall-engine is designed for quick access to private browsing. 
@@ -46,7 +48,6 @@ Type:
 'A' which means you accept and agree to the above conditions and wish to proceed to the Towerfall-Linux 
 or  
 'D' which means you do not accept or agree to the above terms and wish to return to the boot menu"; 
-
 read ANSWER
 
 
