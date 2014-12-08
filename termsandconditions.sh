@@ -4,7 +4,7 @@ TowerFall-Engine
 ANSWER_ACCEPT="A"
 ANSWER_DECLINE="D"
 
-until [ "$ANSWER" == "$ANSWER_DECLINE"
+until [ "$ANSWER" == "$ANSWER_DECLINE" ]
 do
 
 echo -e "\e[1;33mKing: Terms and Conditions + Disclaimers:
